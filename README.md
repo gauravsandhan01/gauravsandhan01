@@ -2,7 +2,10 @@
 <h3 align="center">A Passionate MEAN Stack Developer | AWS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Web+Developer;MEAN+Stack+Developer;AWS+Cloud+Learner;C%2C+C%2B%2B%2C+Java+Programmer" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Developer-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MEAN-Stack%20Developer-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Learner-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C/C++/Java-Programmer-yellow?style=for-the-badge"/>
 </p>
 
 
