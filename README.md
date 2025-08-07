@@ -31,10 +31,10 @@
 
 ### 📲 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-sandhan" target="_blank">
+  <a href="https://www.linkedin.com/in/gaurav-sandhan-6a1581286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gaurav.sandhan" target="_blank">
+  <a href="https://www.instagram.com/gaurav_sandhan_22" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -44,9 +44,9 @@
 ### 🎯 Quote:
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
----
+--- 
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsandhan&theme=radical&fire=DD2727" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsandhan01&theme=radical&fire=DD2727" />
 </p>
