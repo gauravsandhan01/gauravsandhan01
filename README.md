@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sandhan</h1>
 <h3 align="center">A Passionate MEAN Stack Developer | AWS Enthusiast</h3>
 
+
+<br>
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Web+Developer;MEAN+Stack+Specialist;C%2C+C%2B%2B%2C+Java+Programmer;AWS+Cloud+Learner" alt="Typing SVG" />
 </p>
