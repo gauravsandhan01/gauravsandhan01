@@ -3,9 +3,10 @@
 <h3 align="center">A Passionate MEAN Stack Developer | AWS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Full+Stack+Web+Developer;MEAN+Stack;Specialist;C%2C+C%2B%2B%2C+Java+Programmer;AWS+Cloud+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Full+Stack+Web+Developer;MEAN+Stack+Developer;AWS+Cloud+Learner;C%2C+C%2B%2B%2C+Java+Programmer" alt="Typing SVG" />
 </p>
 
+<br></br>
 
 
 ---
