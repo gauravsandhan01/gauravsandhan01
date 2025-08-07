@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate MEAN Stack Developer | AWS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Developer-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MEAN-Stack%20Developer-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learner-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C/C++/Java-Programmer-yellow?style=for-the-badge"/>
+  <strong>Full Stack Web Developer</strong><br/>
+  <strong>MEAN Stack Developer</strong><br/>
+  <strong>AWS Cloud Learner</strong><br/>
+  <strong>C, C++, Java Programmer</strong>
 </p>
 
 
