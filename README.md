@@ -3,12 +3,11 @@
 <h3 align="center">A Passionate MEAN Stack Developer | AWS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Full+Stack+Web+Developer;MEAN+Stack+Developer;AWS+Cloud+Learner;C%2C+C%2B%2B%2C+Java+Programmer" alt="Typing SVG" />
+  <strong>Full Stack Web Developer</strong><br/>
+  <strong>MEAN Stack Developer</strong><br/>
+  <strong>AWS Cloud Learner</strong><br/>
+  <strong>C, C++, Java Programmer</strong>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=Full+Stack+Web+Developer;MEAN+Stack+Specialist;C%2C+C%2B%2B%2C+Java+Programmer;AWS+Cloud+Learner" alt="Typing SVG" />
-</p>
-
 
 <br></br>
 
