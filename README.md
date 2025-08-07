@@ -2,11 +2,9 @@
 <h3 align="center">A Passionate MEAN Stack Developer | AWS Enthusiast</h3>
 
 <p align="center">
-  <strong>Full Stack Web Developer</strong><br/>
-  <strong>MEAN Stack Developer</strong><br/>
-  <strong>AWS Cloud Learner</strong><br/>
-  <strong>C, C++, Java Programmer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Web+Developer;MEAN+Stack+Developer;AWS+Cloud+Learner;C%2C+C%2B%2B%2C+Java+Programmer" alt="Typing SVG" />
 </p>
+
 
 ---
 
