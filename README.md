@@ -58,10 +58,6 @@
 
 ---
 
-### ✨ Fun Animation:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/animation.gif" width="200px" />
-</p>
 
 
 ---
@@ -71,7 +67,4 @@
 
 --- 
 
-### 🔥 Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsandhan&theme=radical&fire=DD2727" />
-</p>
+
