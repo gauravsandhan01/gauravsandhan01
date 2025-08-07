@@ -72,5 +72,5 @@
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsandhan01&theme=radical&fire=DD2727" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsandhan&theme=radical&fire=DD2727" />
 </p>
