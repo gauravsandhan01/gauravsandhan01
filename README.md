@@ -9,9 +9,6 @@
   <strong>C, C++, Java Programmer</strong>
 </p>
 
-<br></br>
-
-
 ---
 
 ### 🛠️ Languages and Tools:
