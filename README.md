@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sandhan</h1>
 <h3 align="center">A Passionate MEAN Stack Developer | AWS Enthusiast</h3>
 
-
-<br>
-<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Web+Developer;MEAN+Stack+Specialist;C%2C+C%2B%2B%2C+Java+Programmer;AWS+Cloud+Learner" alt="Typing SVG" />
 </p>
@@ -26,8 +23,8 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravsandhan&show_icons=true&theme=radical" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsandhan&layout=compact&theme=radical" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravsandhan01&show_icons=true&theme=radical" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsandhan01&layout=compact&theme=radical" height="170px" />
 </p>
 
 ---
